@@ -13,4 +13,4 @@ def guloso_estrelas(tamanhos, estrelas, capacidade):
 tamanhos = [5, 4, 6]
 estrelas = [2, 5, 4]
 capacidade = 10
-print(guloso_estrelas(tamanhos, estrelas, capacidade))  # Pode dar 9 (4+5), mas ideal é 7 (5+2)
+print(guloso_estrelas(tamanhos, estrelas, capacidade))
